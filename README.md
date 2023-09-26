@@ -10,7 +10,7 @@
 </picture>
 
 
-### Recently graduated from the full-stack developer course and am currently looking for my place under the sun in the wonderful world of IT :sun_with_face:
+### Recently graduated from the full-stack developer course and looking for my place under the sun in the wonderful world of IT :sun_with_face:
 
 I am:
 - currently working on creating react apps an test tasks in order to find a job :desktop_computer:
@@ -20,8 +20,8 @@ I am:
 My English level is B1-B2.
 
  You can reach me: 
-:pencil: malina.bodnar@gmail.com
-📫 Telegram: https://t.me/alina_Bodnar1
-:round_pushpin: https://www.linkedin.com/in/alinabodnar/
+[Gmail] malina.bodnar@gmail.com
+[Telegram] https://t.me/alina_Bodnar1
+[LinkedIn] https://www.linkedin.com/in/alinabodnar/
 
 
