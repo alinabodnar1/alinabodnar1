@@ -1,18 +1,18 @@
 ## Hello visitor 👋 Welcome to my profile!
 ## I am Alina and I am from Ukraine :yellow_heart::blue_heart:
 
-### I follow my happiness and hope the Universe will open doors for me where there were only walls before :eye:
+---
+> Follow your happiness and the Universe will open doors where there were only walls before :eye:
+
+— one of the wise people:winking_face:
 
 
 <picture>
  <img alt="She codes" src="https://www.gov.il/BlobFolder/generalpage/she-codes/he/populations-integration_hi-tech_pictures-she-codes.jpg" width="600">
 </picture>
 
----
-> If we pull together and commit ourselves, then we can push through anything.
 
-— Mona the Octocat
-### I recently graduated from the full-stack developer course and am currently looking for my place under the sun in the wonderful world of IT :sun_with_face:
+### Recently graduated from the full-stack developer course and am currently looking for my place under the sun in the wonderful world of IT :sun_with_face:
 
 I am:
 - currently working on creating react apps an test tasks in order to find a job :desktop_computer:
