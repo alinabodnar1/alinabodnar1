@@ -20,8 +20,11 @@ I am:
 My English level is B1-B2.
 
  You can reach me: 
-[Gmail] malina.bodnar@gmail.com
-[Telegram] https://t.me/alina_Bodnar1
-[LinkedIn] https://www.linkedin.com/in/alinabodnar/
+- [Gmail] malina.bodnar@gmail.com
+- [Telegram] https://t.me/alina_Bodnar1
+- [LinkedIn] https://www.linkedin.com/in/alinabodnar/
+
+My skills:
+https://img.shields.io/badge/:badgeContent
 
 
