@@ -1,5 +1,5 @@
 ## Hello visitor! Welcome to my profile 👋
-## I am Alina and I am from Ukraine:flag_ukraine:
+## I am Alina and I am from Ukraine :yellow_heart::blue_heart:
 
 ### I follow my happiness and hope the Universe will open doors for me where there were only walls before :eye:
 
