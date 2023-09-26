@@ -10,6 +10,7 @@
 
 
 I recently graduated from the full-stack developer course and am currently looking for my place under the sun in the wonderful world of IT :sun_with_face:
+
 I am:
 - currently working on creating react apps an test tasks in order to find a job :desktop_computer:
 - learning TypeScript :orange_book:
@@ -17,9 +18,9 @@ I am:
 
 My English is B1-B2.
 
-📫 You can reach me: 
+ You can reach me: 
 :pencil: malina.bodnar@gmail.com
-:page_facing_up: Telegram: https://t.me/alina_Bodnar1
+📫 Telegram: https://t.me/alina_Bodnar1
 :round_pushpin: https://www.linkedin.com/in/alinabodnar/
 
 
