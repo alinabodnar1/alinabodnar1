@@ -1,6 +1,6 @@
-### Hi there, I am Alina 👋
+## Hello visitor! I am Alina, welcome to my profile 👋
 
-## I follow my happiness and hope the Universe will open doors for me where there were only walls before...
+### I follow my happiness and hope the Universe will open doors for me where there were only walls before...
 <picture>
 
  <img alt="She codes" src="https://www.gov.il/BlobFolder/generalpage/she-codes/he/populations-integration_hi-tech_pictures-she-codes.jpg" width="600">
