@@ -1,4 +1,4 @@
-## Hello visitor! Welcome to my profile 👋
+## Hello visitor 👋 Welcome to my profile!
 ## I am Alina and I am from Ukraine :yellow_heart::blue_heart:
 
 ### I follow my happiness and hope the Universe will open doors for me where there were only walls before :eye:
@@ -18,5 +18,8 @@ I am:
 My English is B1-B2.
 
 📫 You can reach me: 
+:pencil: malina.bodnar@gmail.com
+:page_facing_up: Telegram: https://t.me/alina_Bodnar1
+:round_pushpin: https://www.linkedin.com/in/alinabodnar/
 
 
