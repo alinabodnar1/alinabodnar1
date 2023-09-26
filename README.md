@@ -1,7 +1,7 @@
 ## Hello visitor! welcome to my profile 👋
-## I am Alina and I am from Ukraine :flag_ukraine: 
+## I am Alina and I am from Ukraine :flag_ukraine
 
-### I follow my happiness and hope the Universe will open doors for me where there were only walls before :globe_showing_asia_australia:
+### I follow my happiness and hope the Universe will open doors for me where there were only walls before :globe_showing_americas
 
 
 <picture>
