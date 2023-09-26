@@ -4,8 +4,6 @@
 ---
 > Follow your happiness and the Universe will open doors where there were only walls before :eye:
 
-— one of the wise people
-
 
 <picture>
  <img alt="She codes" src="https://www.gov.il/BlobFolder/generalpage/she-codes/he/populations-integration_hi-tech_pictures-she-codes.jpg" width="600">
