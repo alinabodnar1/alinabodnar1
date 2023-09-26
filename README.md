@@ -1,14 +1,15 @@
 ### Hi there, I am Alina 👋
 
+## I follow my happiness and hope the Universe will open doors for me where there were only walls before...
 <picture>
 
- <img alt="She codes" src="https://www.gov.il/BlobFolder/generalpage/she-codes/he/populations-integration_hi-tech_pictures-she-codes.jpg" width="400">
+ <img alt="She codes" src="https://www.gov.il/BlobFolder/generalpage/she-codes/he/populations-integration_hi-tech_pictures-she-codes.jpg" width="600">
 </picture>
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on creating react apps an test tasks in order to find a job.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning TypeScript.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
