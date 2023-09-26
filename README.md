@@ -1,8 +1,8 @@
 ### Hi there, I am Alina 👋
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://www.gov.il/BlobFolder/generalpage/she-codes/he/populations-integration_hi-tech_pictures-she-codes.jpg">
- <img alt="She codes" src="https://www.gov.il/BlobFolder/generalpage/she-codes/he/populations-integration_hi-tech_pictures-she-codes.jpg">
+
+ <img alt="She codes" src="https://www.gov.il/BlobFolder/generalpage/she-codes/he/populations-integration_hi-tech_pictures-she-codes.jpg" width="400">
 </picture>
 
 Here are some ideas to get you started:
