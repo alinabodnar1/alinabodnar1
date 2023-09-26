@@ -7,6 +7,7 @@
 </picture>
 
 
+- I recently graduated from the full-stack developer course and am currently looking for my place under the sun in the wonderful world of IT :sun_with_face:
 
 - 🔭 I’m currently working on creating react apps an test tasks in order to find a job.
 - 🌱 I’m currently learning TypeScript.
