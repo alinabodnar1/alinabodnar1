@@ -2,7 +2,7 @@
 ## I am Alina and I am from Ukraine :yellow_heart::blue_heart:
 
 ---
-> Follow your happiness and the Universe will open doors where there were only walls before :eye:
+> Follow your bliss and the Universe will open doors where there were only walls before :eye:
 
 
 <picture>
