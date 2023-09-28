@@ -25,6 +25,6 @@ My English level is B1-B2.
 - [LinkedIn] https://www.linkedin.com/in/alinabodnar/
 
 My skills:
-https://img.shields.io/badge/:badgeContent
+
 
 
