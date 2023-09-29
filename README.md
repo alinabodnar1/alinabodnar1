@@ -24,7 +24,8 @@ My English level is B1-B2.
 - [Telegram] https://t.me/alina_Bodnar1
 - [LinkedIn] https://www.linkedin.com/in/alinabodnar/
 
-My skills:
+
+My skills: HTML, CSS(SASS), Java Script, React (Redux Toolkit), GitHub, Webpack/Parcel, Material UI, Node.js, MongoDB.
 
 
 
