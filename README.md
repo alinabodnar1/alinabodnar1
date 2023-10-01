@@ -25,7 +25,7 @@ My English level is B1-B2.
 - [LinkedIn] https://www.linkedin.com/in/alinabodnar/
 
 
-<div align="center>
+
  ![HTML](https://img.shields.io/badge/HTML-5-E34F26?style=for-the-badge&logo=html5)
 ![Shields](https://img.shields.io/badge/CSS-3-green.svg)
 ![Shields](https://img.shields.io/badge/SASS-5-blue.svg)
@@ -40,7 +40,7 @@ My English level is B1-B2.
 ![Shields](https://img.shields.io/badge/Material_UA-blue.svg)
 
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg)](https://swagger.io/docs/)
-</div>
+
 
 ![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3)
