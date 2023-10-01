@@ -40,11 +40,11 @@ My skills: HTML, CSS(SASS), Java Script, React (Redux Toolkit), GitHub, Webpack/
 ![Shields](https://img.shields.io/badge/Parcel-orange.svg)
 ![Shields](https://img.shields.io/badge/Material_UA-blue.svg)
 
-![Shields](https://img.shields.io/swagger/blue.svg)
 
-![Swagger Validator](https://img.shields.io/swagger/valid/3.0)
 
-<img alt="Swagger Validator" src="https://img.shields.io/swagger/valid/3.0">
+![Swagger Validator](https://img.shields.io/swagger/valid/3.0/Swagger)
+
+<img alt="Swagger Validator" src="https://img.shields.io/swagger/valid/3.0" logoColor="green">
 
 
 
