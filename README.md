@@ -42,7 +42,7 @@ My skills: HTML, CSS(SASS), Java Script, React (Redux Toolkit), GitHub, Webpack/
 
 
 
-[![Swagger](https://img.shields.io/badge/Swagger-Documentation-85EA2D.svg)](https://swagger.io/docs/)
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg)](https://swagger.io/docs/)
 
 
 
