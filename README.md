@@ -42,7 +42,7 @@ My skills: HTML, CSS(SASS), Java Script, React (Redux Toolkit), GitHub, Webpack/
 
 
 
-![Swagger Validator](https://img.shields.io/swagger/valid/3.0?specUrl=https%3A%2F%2Fswagger.io%2Fdocs%2F&logoColor=green)
+[![Swagger](https://img.shields.io/badge/Swagger-Documentation-orange.svg)](https://swagger.io/docs/)
 
 
 
