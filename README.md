@@ -40,7 +40,7 @@ My skills: HTML, CSS(SASS), Java Script, React (Redux Toolkit), GitHub, Webpack/
 ![Shields](https://img.shields.io/badge/Parcel-orange.svg)
 ![Shields](https://img.shields.io/badge/Material_UA-blue.svg)
 
-![Shields](https://img.shields.io/swagger/valid/3.0)
+![Shields](https://img.shields.io/swagger/valid/3.0-blue.svg)
 
 
 
