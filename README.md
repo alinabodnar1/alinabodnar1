@@ -26,8 +26,8 @@ My English level is B1-B2.
 
 
 My skills: HTML, CSS(SASS), Java Script, React (Redux Toolkit), GitHub, Webpack/Parcel, Material UI, Node.js, MongoDB.
-https://img.shields.io/badge/:badgeContent
-[![Shields](https://img.shields.io/badge/HTML-5-orange.svg)](https://img.shields.io/badge/:badgeContent)https://img.shields.io/badge/:badgeContent)
+
+[![Shields](https://img.shields.io/badge/HTML-5-orange.svg)]
 
 
 
