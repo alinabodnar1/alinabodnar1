@@ -26,7 +26,7 @@ My English level is B1-B2.
 
 
 
- ![HTML](https://img.shields.io/badge/HTML-5-E34F26?style=for-the-badge&logo=html5)
+ ![HTML](https://img.shields.io/badge/HTML-5-E34F26?style=for-the-badge&logo=html5)(https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 ![Shields](https://img.shields.io/badge/CSS-3-green.svg)
 ![Shields](https://img.shields.io/badge/SASS-5-blue.svg)
 ![Shields](https://img.shields.io/badge/Java_Script-ES6-green.svg)
