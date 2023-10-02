@@ -40,6 +40,7 @@ My English level is B1-B2.
 ![Shields](https://img.shields.io/badge/Material_UA-blue.svg)
 
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg)](https://swagger.io/docs/)
+![Swagger Validator](https://img.shields.io/swagger/valid/3.0)
 
 
 ![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5)
