@@ -27,24 +27,8 @@ My English level is B1-B2.
 
 
  ![HTML](https://img.shields.io/badge/HTML-5-E34F26?style=for-the-badge&logo=html5)(https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-![Shields](https://img.shields.io/badge/CSS-3-green.svg)
-![Shields](https://img.shields.io/badge/SASS-5-blue.svg)
-![Shields](https://img.shields.io/badge/Java_Script-ES6-green.svg)
-![Shields](https://img.shields.io/badge/REACT-blue.svg)
-![Shields](https://img.shields.io/badge/NODE.js-gray.svg)
-![Shields](https://img.shields.io/badge/MongoDB-brown.svg)
-![Shields](https://img.shields.io/badge/Github-pink.svg)
-![Shields](https://img.shields.io/badge/VS_Code-yellow.svg)
-![Shields](https://img.shields.io/badge/Webpack-red.svg)
-![Shields](https://img.shields.io/badge/Parcel-orange.svg)
-![Shields](https://img.shields.io/badge/Material_UA-blue.svg)
 
-[![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg)](https://swagger.io/docs/)
-![Swagger Validator](https://img.shields.io/swagger/valid/3.0)
-
-
-![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3)
+![CSS](https://img.shields.io/badge/CSS-3-1572B6?style=for-the-badge&logo=css3)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
@@ -57,6 +41,14 @@ My English level is B1-B2.
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Rest API](https://img.shields.io/badge/REST_API-0096D6?style=for-the-badge&logo=rest&logoColor=white)
+
+
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg)](https://swagger.io/docs/)
+![Swagger Validator](https://img.shields.io/swagger/valid/3.0)
+
+
+![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5)
+
 
 
 
