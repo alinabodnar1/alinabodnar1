@@ -20,7 +20,7 @@ I am:
 My English level is B1-B2.
 
  You can reach me: 
-- [Gmail] malina.bodnar@gmail.com
+- [Gmail] malina.bodnar@gmail.com 
 - [Telegram] https://t.me/alina_Bodnar1
 - [LinkedIn] https://www.linkedin.com/in/alinabodnar/
 
@@ -50,6 +50,17 @@ My English level is B1-B2.
 </div>
 
 &nbsp;&nbsp;
+
+### Socials
+<div id="social" align="left">
+  <a href="https://www.linkedin.com/in/alinabodnar/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://t.me/alina_Bodnar1" target="_blank" rel="noreferrer"><img src="./telegram.png"  width="32" height="32"/></a>
+</div>
+
+&nbsp;&nbsp;
+### My GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alinabodnar1&show_icons=true&theme=darcula)
 
 
 
