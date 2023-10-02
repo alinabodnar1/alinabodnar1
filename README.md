@@ -24,30 +24,22 @@ My English level is B1-B2.
 - [Telegram] https://t.me/alina_Bodnar1
 - [LinkedIn] https://www.linkedin.com/in/alinabodnar/
 
-
+### My tech skills:
 
 ![HTML](https://img.shields.io/badge/HTML-5-E34F26?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-3-1572B6?style=for-the-badge&logo=css3)
-
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-
 ![Nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express-slategray?style=for-the-badge&logo=express&logoColor=black)
 ![Mongodb](https://img.shields.io/badge/mongodb-grey?style=for-the-badge&logo=mongodb)
-
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Rest API](https://img.shields.io/badge/REST_API-0096D6?style=for-the-badge&logo=rest&logoColor=white)
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io/docs/)
 
-
-[![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg)](https://swagger.io/docs/)
-![Swagger Validator](https://img.shields.io/swagger/valid/3.0)
-
-
-![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5)
 
 
 
