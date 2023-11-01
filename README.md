@@ -5,11 +5,6 @@
 > Follow your bliss and the Universe will open doors where there were only walls before :eye:
 
 
-<picture>
- <img alt="She codes" src="https://www.gov.il/BlobFolder/generalpage/she-codes/he/populations-integration_hi-tech_pictures-she-codes.jpg" width="600">
-</picture>
-
-
 ### Recently graduated from the full-stack developer course and looking for my place under the sun in the wonderful world of IT :sun_with_face:
 
 I am:
