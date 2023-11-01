@@ -8,7 +8,7 @@
 ### Recently graduated from the full-stack developer course and looking for my place under the sun in the wonderful world of IT :sun_with_face:
 
 I am:
-- currently learning node.js :orange_book:
+- currently practicing in NODE.js :orange_book:
 - eager to put my tech skills into practice in commercial project :handshake:
 
 My English level is B1-B2.
